@@ -1,0 +1,15 @@
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\bin\Debug\WPFUI.pdb
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\App.g.cs
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\MainWindow.baml
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
+C:\Coding_2018\Project\C_rpg\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb
